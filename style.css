@@ -22,17 +22,6 @@ p {
  
 }
 
-#label {
-    position: auto;
-    top: -10px;
-    left: 20px;
-    height: 20px;
-    width: 100px;
-    background-color: pink;
-    border: 2px solid red;
-    text-align: center;
-}
-
 
 
 
